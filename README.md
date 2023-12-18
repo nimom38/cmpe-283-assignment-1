@@ -14,18 +14,22 @@ Look at the cmpe283 folder of this forked repo- https://github.com/nimom38/linux
 
 ## Q1. For each member in your team, provide 1 paragraph detailing what parts of the lab that member implemented / researched.
 
-- ## Mohaimin Iqbal Gazi
+- ## Mohaimin Iqbal Gazi(017454489)
 
-  -
-  -
-  -
-  -
+ 
+  - Setup virtual machine on Compute Engine of GCP
+  - Installed the linux packages and dependencies
+  - Researched the part of the codebase that was gone through by the Professor, to get a feel of   how to add our own logic.
+  - Implemented the logic that Hemang figured out by doing his research on the codebase and Intel SDM Manual
+  - Wrote the Readme doc
 
-- ## Hemang
-  -
-  -
-  -
-  -
+- ## Hemang Huria(016123146)
+  - Figured out that the memory of virtual instance should be big enough (200gb)
+  - Researched the definitions for VMX capabilities for VMEXIT and Tertiary Procbased controls from the Intel SDM Manual
+  - Researched the definitions for VMX capabilities for VMENTRY, Primary and Secondary Procbased controls from the Intel SDM Manual
+  - Figured out that the “dmseg” was outputting less lines than expected and thus ultimately found a bug in the code. (see commits)
+  - Improved the doc and suggested we cut the clutter by removing redundant screenshots because all the great open-source tool documentations rightfully do not provide screenshots when demonstrating step by step instructions.
+
 
 ## Q2. Describe in detail the steps you used to complete the assignment.
 
