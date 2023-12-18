@@ -1,12 +1,6 @@
 # cmpe-283-assignment-1
 
-## Outputs
 
-![Alt text](<Screenshot 2023-12-17 at 12.40.21 PM.png>)
-
-![Alt text](<Screenshot 2023-12-17 at 12.40.39 PM.png>)
-
-![Alt text](<Screenshot 2023-12-17 at 12.40.52 PM.png>)
 
 ## Source codes-
 
@@ -96,3 +90,11 @@ Look at the cmpe283 folder of this forked repo- https://github.com/nimom38/linux
   - dmesg
   - sudo rmmod cmpe283-1
   - dmesg
+
+## Outputs
+
+![Alt text](<Screenshot 2023-12-17 at 12.40.21 PM.png>)
+
+![Alt text](<Screenshot 2023-12-17 at 12.40.39 PM.png>)
+
+![Alt text](<Screenshot 2023-12-17 at 12.40.52 PM.png>)
